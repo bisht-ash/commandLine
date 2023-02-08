@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "current date = $(date +'%m/%d/%Y')"
 echo "current time = $(date +%r)"
 echo "username = $USER" 
