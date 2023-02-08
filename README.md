@@ -15,10 +15,10 @@ For current user, home and current working directory I have used environment var
 #### Question 3.
 
 - Take input.
-- Check if the input is 1, return 1.
+- Check if the input is 1, print "Not a prime number".
 - For every number from 2 to sqrt(input) check if it is a factor of input.
-- If there exist a factor then return "Not a prime number"
-- Else, return "Prime number".
+- If there exist a factor then print "Not a prime number"
+- Else, print "Prime number".
 
 #### Question 4.
 
