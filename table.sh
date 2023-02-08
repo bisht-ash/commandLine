@@ -1,6 +1,5 @@
 #!/bin/bash
-read var
-
+var=$1
 if [ -z "$var" ];
 then
         echo "Error : execute script properly"
